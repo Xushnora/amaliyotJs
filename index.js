@@ -6,7 +6,14 @@
 // let n = 1254;
 // let a = 16;
 
-// console.log(n.toString(a));
+// function binnaryFunc(n, a) {
+//     if(a == 8 || a == 16 || a == 2) {
+//         return n.toString(a);
+//     }
+// }
+
+// console.log(binnaryFunc(155, 2));
+
 
 
 // #211
